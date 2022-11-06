@@ -3,8 +3,8 @@
     "host": "localhost",
     "port": 3306,
     "username": "root",
-    "password": "",
-    "database": "test_nestjs2",
+    "password": "password",
+    "database": "digitaltwins",
     "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
 }
